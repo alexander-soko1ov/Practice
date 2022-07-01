@@ -1,5 +1,5 @@
 
 for i in range(4):
-    print ('hello world')
+    print (f'hello world \n {i}')
 
 print('End')
